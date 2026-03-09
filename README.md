@@ -10,9 +10,7 @@ This project visualizes the probability that a person is actually infected given
 
 The script plots the posterior probability
 
-P(infected | positive)
-
-as a function of prevalence.
+P(infected | positive) as a function of prevalence.
 
 ## Interpretation
 
